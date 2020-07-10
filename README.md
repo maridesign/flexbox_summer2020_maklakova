@@ -1,1 +1,1 @@
-# flexbox_summer2020_maklakova
+Learning flex box.
